@@ -1,7 +1,7 @@
 from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
 
 # Input video file paths
-video_files = ["video1.mp4", "/sdcard/termuxfile/Psychology_Fact.mp4", "video3.mp4"]
+video_files = ["video1.mp4", "video2.mp4", "video3.mp4"]
 
 # Loop through each video file
 for video_file in video_files:
